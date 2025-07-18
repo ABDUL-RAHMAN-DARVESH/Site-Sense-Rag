@@ -1,0 +1,24 @@
+# Web scraping
+requests
+beautifulsoup4
+
+# Embeddings & Vector DB
+sentence-transformers
+faiss-cpu
+numpy
+
+# LangChain and LLM support
+langchain
+langchain-groq
+
+# Environment variable loading
+python-dotenv
+
+# API backend
+fastapi
+uvicorn
+
+# Request/response validation
+pydantic
+
+playwright
